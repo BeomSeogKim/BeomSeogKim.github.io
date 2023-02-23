@@ -27,7 +27,7 @@ search:
 
 자동차를 예로 들자면 
 
-![image-20230223152138230](../images/2023-02-23-Polymorphism/image-20230223152138230.png)
+![image-20230223152138230]({{site.url}}/images/2023-02-23-Polymorphism/image-20230223152138230.png)
 
 사람은 **운전자 역할** 이며 위 그림 자동차는 **자동차 역할** 입니다.
 
@@ -46,7 +46,7 @@ search:
 
 예를 들어 Client가 Repository를 호출하는 상황을 가정하였을 때 
 
-![image-20230223153619900](../images/2023-02-23-Polymorphism/image-20230223153619900.png)
+![image-20230223153619900]({{site.url}}/images/2023-02-23-Polymorphism/image-20230223153619900.png)
 
 만약 인터페이스를 사용하지 않는다면 Memory 기반 Repository에서 JDBC 기반 Repository로 갈아끼울 경우 **관련된 코드를 모두 새로 갈아끼워줘야 합니다.** 
 
