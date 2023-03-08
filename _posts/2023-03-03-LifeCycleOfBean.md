@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Bean의 LifeCycle"
+title:  "[Spring] Bean의 LifeCycle"
 categories: Spring
 tag: []
 toc: true   

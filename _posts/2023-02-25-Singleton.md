@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Singleton"
+title:  "[Spring] Singleton"
 categories: Spring
 tag: [singleton]
 toc: true   

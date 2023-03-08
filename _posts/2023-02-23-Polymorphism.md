@@ -1,7 +1,7 @@
 ---
 
 layout: single
-title:  "다형성 (Polymorphism)"
+title:  "[Java] 다형성 (Polymorphism)"
 categories: Java
 tag: [java]
 toc: true
