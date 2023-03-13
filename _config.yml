@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
 title                    : "Tommy의 개발 공부 공간"
 title_separator          : "|"
-subtitle                 : "be more positive" # site tagline that appears below site title in masthead
+subtitle                 : "백엔드 개발자 입니다." # site tagline that appears below site title in masthead
 name                     : "Tommy"
 description              : "Tommy의 개발 공간"
 url                      : "https://BeomSeogKim.github.io"
