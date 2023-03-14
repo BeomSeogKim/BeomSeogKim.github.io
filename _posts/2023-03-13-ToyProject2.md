@@ -11,8 +11,6 @@ search:
     true
 ---
 
-# [ToyProject] AWS 설정 
-
 > 이번 장에서는 AWS 설정을 하는 것에 대해 알아보려고 한다. 
 
 큰 순서는 다음과 같다. 

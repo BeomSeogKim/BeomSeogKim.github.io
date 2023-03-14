@@ -11,7 +11,7 @@ search:
     true
 ---
 
-# [ToyProject] Jenkins를 활용한 EC2 자동 배포
+
 
 해당 장은 다음과 같이 구성됩니다. 
 
