@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://beomseogkim.github.io/sitemap.xml
